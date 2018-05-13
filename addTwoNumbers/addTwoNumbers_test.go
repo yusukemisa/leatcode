@@ -7,7 +7,6 @@ import (
 
 //twoSum(nums []int, target int)
 func TestAddTwoNumbers(t *testing.T) {
-
 	l1 := &ListNode{
 		2, &ListNode{
 			4, &ListNode{

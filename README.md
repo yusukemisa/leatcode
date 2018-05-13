@@ -1,13 +1,10 @@
 ## leatcode
-TODO: Write your project about
+https://leetcode.com/
 
-## Features
-Write your project features
+## やること
+* goで問題を解く
 
-## How to use
-
-```
-$ go get github.com/yusukemisa/leatcode
-```
-
-TODO: Write usage of your project
+## すすめかた
+* 回答はプライベート関数で提出する（問題名が関数名になってる）
+* まずサンプル入出力をユニットテストできる体制を作る
+* テストを満たしていくようなプライベート関数を作成する
